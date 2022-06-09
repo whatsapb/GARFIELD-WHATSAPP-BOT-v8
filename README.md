@@ -112,7 +112,7 @@ Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
    
   <br>
     <h1>Developer</h1>
-    <b><table><tr><th>Ｚ Ξ ＮＯＩ</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/mBVtxkp/Screenshot-20220218-213033.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>Ｚ Ξ ＮＯＩnsr</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/mBVtxkp/Screenshot-20220218-213033.jpg" width="180"</td></tr></b>
 
 
 
